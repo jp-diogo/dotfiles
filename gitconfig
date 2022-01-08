@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jp.diogo@gmail.com
+	name = Joao Diogo
